@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add Kiosker Device",
+        "description": "Set up a Kiosker device by entering its details.",
+        "data": {
+          "name": "Device Name",
+          "ip_address": "IP Address",
+          "token": "Authorization Token"
+        }
+      }
+    }
+  }
+}
